@@ -47,6 +47,7 @@ public class MethodOverloading {
 			display('a');
 			display("Jonny");
 			display('x');
+			display("Ahmed");
 		}
 
 }
